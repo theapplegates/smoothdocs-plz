@@ -1,0 +1,7 @@
+[
+  {
+    "fromPath": "/docs/",
+    "ignoreCase": true,
+    "toPath": "/docs/getting-started/"
+  }
+]

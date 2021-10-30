@@ -1,0 +1,9 @@
+
+  // prefer default export if available
+  const preferDefault = m => (m && m.default) || m
+  
+
+exports.ssrComponents = {
+  "component---cache-dev-404-page-js": preferDefault(require("/Users/thor2/Documents/GitHub/smooth-dadssite/website/.cache/dev-404-page.js"))
+  }
+
